@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron{
-    background-image: url("../img/food.jpg") center fixed;
+    background-image: url("../img/food.jpg");
     height: 600px;
     background-position: top;
     color: white;
