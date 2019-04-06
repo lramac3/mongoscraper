@@ -1,0 +1,23 @@
+body {
+    font-family: 'Cormorant', serif;
+}
+
+.jumbotron{
+    background-image: url("../img/food.jpg");
+    height: 600px;
+    background-position: top;
+    color: white;
+    margin-bottom: 20px;    
+}
+
+img{
+    height: 300px;
+    width: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+.modal {
+    position: absolute;
+    top: 200px;
+}

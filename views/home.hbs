@@ -1,0 +1,43 @@
+<ul class="nav my-2">
+  <li class="nav-item">
+    <a class="nav-link">Mongo Scraper</a>
+  </li>
+  <li class="nav-item">
+    <a id="homeNav" class="nav-link" href="/home">Home</a>
+  </li>
+  <li class="nav-item">
+    <a id="savedNav" class="nav-link" href="/saved">Saved Articles</a>
+  </li>
+  <li class="nav-item">
+    <button id="scrapeBTN" type="button" class="btn btn-success mr-2" data-toggle="modal" data-target="#loadingGif">Scrape
+      Articles</button>
+  </li>
+  <li class="nav-item">
+    <button id="clearBTN" type="button" class="btn btn-danger">Clear Articles</button>
+  </li>
+</ul>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Mongo Scraper</h1>
+    <p class="lead">New York Times Edition</p>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <h4>Articles:</h4>
+  <div id="articleContainer"></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="loadingGif" tabindex="-1" role="dialog" aria-labelledby="loadingGifModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body d-flex justify-content-center">
+        <img src='https://cdn.dribbble.com/users/645440/screenshots/3266490/loader-2_food.gif'>
+      </div>
+    </div>
+  </div>
+</div>
