@@ -3,11 +3,14 @@ body {
 }
 
 .jumbotron{
-    background-image: url("../img/food.jpg");
+    background-image: url("../img/food.jpg") center fixed;
     height: 600px;
     background-position: top;
     color: white;
     margin-bottom: 20px;    
+     background-position: center;
+  background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img{
