@@ -1,6 +1,6 @@
 # Welcome to Food Articles Scraper
 
- Find the latest food articles from New York Times. 
+ Find the latest articles from food section of New York Times. 
 
 ### Description
 
