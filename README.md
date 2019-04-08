@@ -4,7 +4,7 @@
 
 ### Description
 
-![FA-Scraper](https://user-images.githubusercontent.com/28829258/55676309-ab180300-58a0-11e9-9c1a-c7b5244550fd.png)
+![FAScraper](https://user-images.githubusercontent.com/28829258/55755871-366ad300-5a1e-11e9-9336-8b7eec2995c7.gif)
 
 Food Articles Scraper demonstrates a simple full stack application with a front end implemented with HTML/CSS/Javascript and elements from the Bootstrap framework and the backend implemented with node.js, express, cheerio, and mongoose. HTML templating is done with the help of Handlebars.
 
