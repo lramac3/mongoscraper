@@ -34,3 +34,13 @@ patch:
         patched: '2019-11-02T14:58:03.758Z'
     - snyk > snyk-nodejs-lockfile-parser > lodash:
         patched: '2019-11-02T14:58:03.758Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-11-02T14:58:43.013Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-11-02T14:58:43.013Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-02T14:58:43.013Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-11-02T14:58:43.013Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-02T14:58:43.013Z'
