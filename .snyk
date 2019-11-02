@@ -6,3 +6,31 @@ patch:
   SNYK-JS-AXIOS-174505:
     - axios:
         patched: '2019-05-30T14:36:42.492Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-11-02T14:58:03.758Z'
+  SNYK-JS-LODASH-450202:
+    - cheerio > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-php-plugin > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-11-02T14:58:03.758Z'
