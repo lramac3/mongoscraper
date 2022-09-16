@@ -19,7 +19,7 @@
     "express-handlebars": "^3.0.2",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
-    "snyk": "^1.241.0"
+    "snyk": "^1.324.0"
   },
   "engines": {
     "node": "10.15.0"
